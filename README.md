@@ -4,6 +4,7 @@
 ### Industrial Engineer discovering her programming side
 ****
 Currently participating in Full-stack JavaScript Bootcamp. 
+
 As part of the course we are getting started with markdown as well as getting to know the terminal and basic commands such as:
 | Command | Description |
 | ------ | ------ |
